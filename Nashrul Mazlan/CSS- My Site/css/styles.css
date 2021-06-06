@@ -1,0 +1,99 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+h3{
+  color: #11999E;
+}
+
+a{
+  text-decoration: none;
+  color: #11999E;
+}
+
+
+ul{
+  list-style: none;
+}
+
+.profilepic{
+  height: 250px;
+  border-radius: 130px;
+  border-style: solid;
+}
+
+.top {
+  background-color: #a9f1df;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.SE{
+  height: 200px;
+  padding-left: 20px;
+}
+
+.Army{
+  height: 200px;
+    padding-left: 30px;
+}
+
+.sneaker{
+  height: 200px;
+    padding-left: 30px;
+}
+
+.starbucks{
+  height: 200px;
+    padding-left: 30px;
+}
+
+.picker{
+  height: 200px;
+    padding-left: 20px;
+}
+
+.skill-row{
+  background-color: #a9f1df;
+}
+
+
+.table{
+margin-left: auto;
+margin-right: auto;
+}
+
+.footer-link{
+  padding: 0px 5px;
+}
